@@ -1,0 +1,38 @@
+body {
+    background-color: red;
+}
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* class */
+.color-white {
+    /*color: white;*/
+    /*color: #ffffff;*/
+    /*color: rgb(255, 255, 255);*/
+    color: rgba(255, 255, 255, 0.4);
+}
+
+/* id */
+#mon-pgh {
+    text-decoration: underline;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+a:hover {
+    font-size: 40px;
+    color: yellow;
+}
+
+.border{
+    border: 2px solid black;
+    margin: 2rem;
+    padding: 2rem;
+}
